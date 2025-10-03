@@ -1,1 +1,1 @@
-# Two-Characters-algo
+# Two-Characters-algo The function tries all pairs of distinct characters and keeps only those in the string. It then counts the length of the longest string where no two identical characters are adjacent and returns the maximum such length.
